@@ -1,632 +1,203 @@
-<!-- ANANYA | GitHub Profile README -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,75:7C3AED,100:06B6D4&height=220&section=header&text=ANANYA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=MCA%20Student%20%C2%B7%20Software%20%26%20Web%20Technology&descAlignY=61&descSize=18&animation=fadeIn"/>
+#  ANANYA
+
+### MCA Student · Software & Web Technology
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+portfolio+%F0%9F%91%8B;Exploring+Software+%26+Web+Technology;Building+Practical+Projects+%F0%9F%9A%80;Passionate+About+Technology+%26+Creativity;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=Building+practical+projects+with+technology;Exploring+Web+Development+%7C+Python+%7C+ML;Passionate+about+Technology+%26+Creativity;Learning+%C2%B7+Building+%C2%B7+Growing"/>
-
-<br><br>
-
-<a href="https://github.com/ananya055">
-<img src="https://img.shields.io/badge/GitHub-ANANYA-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/aynana05">
+<img src="https://img.shields.io/badge/GitHub-aynana05-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/ananya-3048ba354">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://skill-showcase-ananya.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-EXPLORE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ananya-3048ba354/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </div>
 
 ---
 
-<h2>▸ ABOUT ME</h2>
+## 👩‍💻 About Me
 
-I'm an **MCA student** exploring the world of **software and web technology**.
+Hi! I'm **Ananya**, an MCA student passionate about **technology, software, web development, and creativity**.
 
-I enjoy building practical projects, experimenting with new technologies, and continuously improving my development skills.
+I enjoy learning through hands-on practice, building practical projects, solving programming problems, and continuously improving my technical skills.
 
-My interests include **Python, web development, REST APIs, and machine learning concepts**.
-
-I'm also passionate about **technology and creativity**, with a focus on learning through hands-on projects and experiences.
+🌱 Currently learning and strengthening my programming fundamentals  
+💻 Interested in software and web technologies  
+🧠 Enjoy problem solving and logical thinking  
+🚀 Building projects to turn learning into practical experience  
+✨ Passionate about technology and creativity  
 
 ---
 
-<h2>▸ TECH STACK</h2>
+## 🛠️ Tech Stack
+
+### 💻 Programming & Web
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🌱 Currently Exploring
+
+`C Programming` · `Python` · `Web Development` · `Machine Learning` · `Git & GitHub`
+
+---
+
+# 🚀 FEATURED PROJECTS
 
 <div align="center">
 
-### PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=c,python"/>
-
-<br><br>
-
-### WEB DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-<br><br>
-
-### TOOLS & DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,flask"/>
-
-<br><br>
-
-### DATA & OTHER TECHNOLOGIES
-
-<img src="https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge&logo=fastapi&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=21A366"/>
-<img src="https://img.shields.io/badge/Microsoft%20Access-111827?style=for-the-badge&logo=microsoftaccess&logoColor=A4373A"/>
-<img src="https://img.shields.io/badge/Tally%20GST-111827?style=for-the-badge"/>
+### Building ideas into practical projects.
 
 </div>
 
 ---
 
-<h2>▸ PROFESSIONAL SKILLS</h2>
+## 📊 StudySpectrum — Student Performance Prediction
+
+A **machine-learning-based web application** designed to predict student performance categories using academic and study-related inputs.
+
+### 🔍 What it does
+
+- 📈 Predicts student performance categories
+- 🤖 Uses a machine-learning model for prediction
+- 🐍 Python-based prediction system
+- 🌐 Web-based interface
+- 📊 Processes student-related data
+- ⚙️ Uses a Flask-based backend
+
+### 🧰 Technologies
+
+`Python` · `Flask` · `Scikit-learn` · `Pandas` · `HTML` · `CSS` · `JavaScript`
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Communication-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Customer%20Handling-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Teamwork-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Adaptability-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Interpersonal%20Skills-111827?style=for-the-badge"/>
-
-</div>
-
----
-
-<h2>▸ EXPERIENCE</h2>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🐍 Python Development Internship</h3>
-
-<b>Diya Systems Pvt. Ltd. · Mangalore</b>
-
-<br><br>
-
-Gained practical exposure to Python development and REST API concepts.
-
-<b>Worked With</b>
-
-- Python development
-- REST API concepts
-- HTTP methods
-- Employee operations
-- API-based application development
-
-<b>Project</b>
-
-Employee Management REST API
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🏦 Banking & Customer Interaction</h3>
-
-Worked under a banking agency in a customer-facing, system-based environment.
-
-<b>Experience</b>
-
-- Loan-related procedures
-- Customer interaction
-- Understanding customer requirements
-- Explaining relevant information
-- Professional communication
-- System-based work
-
-<b>Developed</b>
-
-Communication · Customer Handling · Adaptability
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h2>▸ FEATURED PROJECTS</h2>
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>📊 StudySpectrum</h3>
-
-<b>Student Performance Prediction</b>
-
-<br><br>
-
-A web-based machine learning application designed to predict student performance categories using academic and study-related inputs.
-
-<br>
-
-<b>Technologies</b>
-
-<br><br>
-
-<code>Python</code> · <code>Flask</code> · <code>Scikit-learn</code><br>
-<code>Pandas</code> · <code>HTML</code> · <code>CSS</code>
-
-<br><br>
-
-<b>Highlights</b>
-
-- Logistic Regression
-- Student performance prediction
-- Flask backend
-- Web interface
-
-<br>
 
 <a href="https://github.com/ananya055/student-performance_ai">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🔗%20VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+---
 
-<h3>📚 Book Scraper</h3>
+## 🍴 StreetFoodAdda — Food Discovery Website
 
-<b>Python Web Scraping</b>
+A **web-based food project** created to provide an engaging experience for exploring street-food content.
 
-<br><br>
+The project focuses on front-end development, responsive design, content presentation, and creating an interactive website experience.
 
-A Python-based project created to extract and organize book-related information.
+### ✨ Highlights
 
-<br><br>
+- 🌐 Responsive web interface
+- 🍔 Food-focused content and presentation
+- 🎨 User-friendly design
+- 📱 Web-based layout
+- 🧩 Multiple pages and components
+- 🚀 Deployed web project
 
-<b>Focus</b>
+### 🧰 Technologies
 
-<br><br>
+`HTML` · `CSS` · `JavaScript`
 
-<code>Python</code> · <code>Web Scraping</code><br>
-<code>Data Extraction</code>
-
-<br><br><br>
-
-<a href="https://github.com/Gauthami04/Book_Scraper">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>👥 Employee Management REST API</h3>
-
-Developed during the Python development internship to explore REST API concepts and employee-related operations.
-
-<br><br>
-
-<b>Focus</b>
-
-<br><br>
-
-<code>Python</code> · <code>REST APIs</code> · <code>HTTP Methods</code>
-
-<br><br>
-
-<a href="https://github.com/Gloria501/Project-2">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🌐 Personal Portfolio</h3>
-
-A personal portfolio website showcasing education, skills, experience, projects, certifications, achievements, and contact information.
-
-<br><br>
-
-<b>Focus</b>
-
-<br><br>
-
-<code>Web Development</code> · <code>UI Design</code><br>
-<code>Responsive Design</code> · <code>Personal Branding</code>
-
-<br><br>
-
-<a href="https://skill-showcase-ananya.lovable.app/">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🌮 Street Food Adda</h3>
-
-<b>BCA Final-Year Assignment</b>
-
-<br><br>
-
-A creative multi-page food website featuring an interactive menu, customer reviews, navigation, and location functionality.
-
-<br><br>
-
-<b>Technologies</b>
-
-<br><br>
-
-<code>HTML</code> · <code>CSS</code> · <code>JavaScript</code>
-
-<br><br>
+<div align="center">
 
 <a href="https://github.com/ananya055/streetfoodadda">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🔗%20VIEW%20PROJECT-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
-</td>
+<a href="https://streetfoodadda.vercel.app/">
 
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 
-<h3>🔗 More on GitHub</h3>
-
-Explore my repositories to discover additional learning projects, experiments, and development work.
-
-<br><br><br>
-
-<a href="https://github.com/ananya055?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
-<h2>▸ EDUCATION</h2>
+## 💡 More Projects
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🎓 Master of Computer Applications</h3>
-
-<b>MCA · Currently Pursuing</b>
-
-<br><br>
-
-Exploring software development, web technologies, programming, and practical project development.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>💻 Bachelor of Computer Applications</h3>
-
-<b>St Agnes College</b>
-
-<br><br>
-
-<b>Overall Score:</b> 79%
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>📘 Pre-University</h3>
-
-<b>Shakthi PU College · 2021–2023</b>
-
-<br><br>
-
-<b>Score:</b> 81%
-
-<br><br>
-
-Commerce stream with Computer Science.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🏫 SSLC</h3>
-
-<b>St Agnes Higher Primary School</b>
-
-<br><br>
-
-2020–2021 · <b>77.92%</b>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<h2>▸ CERTIFICATIONS</h2>
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>📱 Social Media Content & Strategy</h3>
-
-Social media marketing, platform working, audience engagement, content planning, and digital marketing.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🎨 Design Fundamentals with AI</h3>
-
-Typography, colour theory, and visual composition.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🔐 Introduction to Cybersecurity Awareness</h3>
-
-Online safety, digital threats, safe internet practices, personal information, and secure passwords.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>💻 Diploma in Computer Application</h3>
-
-Microsoft Access, Tally GST, Internet Applications, Microsoft Windows, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, and Kannada Nudi.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-<h3>🏦 IIBF Debt Recovery Agent Examination / Training</h3>
-
-Completed in 2026.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<h2>▸ ACADEMIC RECOGNITION</h2>
+I'm continuously adding new projects while learning, experimenting, and improving my skills.
 
 <div align="center">
 
-### 🏅 BCA 4th Semester Merit Certificate
-
-`Computer Multimedia & Animation` · `Operating Systems` · `Hindi` · `Financial Education & Investment Awareness`
+**Learn → Experiment → Build → Share → Improve**
 
 </div>
 
 ---
 
-<h2>▸ BEYOND THE CODE</h2>
+## 🎓 Education
 
-<div align="center">
+**Master of Computer Applications (MCA)**  
+Sahyadri College of Engineering and Management  
+*Currently pursuing*
 
-<table>
-
-<tr>
-<td>🥇 <b>1st Place — Kabaddi</b></td>
-<td>Annual Sports Meet</td>
-</tr>
-
-<tr>
-<td>🥈 <b>2nd Place — Relay</b></td>
-<td>Annual Sports Meet</td>
-</tr>
-
-<tr>
-<td>🎤 <b>TEDx Volunteer</b></td>
-<td>Event Volunteering</td>
-</tr>
-
-<tr>
-<td>🏫 <b>Student Council Member</b></td>
-<td>College Activities</td>
-</tr>
-
-<tr>
-<td>👥 <b>Class Representative</b></td>
-<td>Student Leadership</td>
-</tr>
-
-<tr>
-<td>🎪 <b>Event Head & Committee Member</b></td>
-<td>National-Level College Fest</td>
-</tr>
-
-<tr>
-<td>💡 <b>TECHWALK</b></td>
-<td>College Technical Event</td>
-</tr>
-
-<tr>
-<td>🇮🇳 <b>Hindi Diwas</b></td>
-<td>College Activity</td>
-</tr>
-
-<tr>
-<td>🪖 <b>NCC</b></td>
-<td>Five Years · A, B & C Certificates</td>
-</tr>
-
-</table>
-
-</div>
+**Bachelor of Computer Applications (BCA)**  
+St. Agnes College  
+*Completed · 79%*
 
 ---
 
-<h2>▸ CURRENTLY EXPLORING</h2>
+## 🌟 Beyond the Code
 
-<div align="center">
+- 🏅 BCA 4th Semester Merit Certificate
+- 📜 IIBF Debt Recovery Agent Examination / Training Certification
+- 🎨 Design Fundamentals with AI
+- 📱 Social Media Content & Strategy
+- 🔐 Introduction to Cybersecurity Awareness
+- 💻 Diploma in Computer Application
 
-<table>
-
-<tr>
-
-<td align="center">
-🐍
-<br>
-<b>PYTHON</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🌐
-<br>
-<b>WEB DEVELOPMENT</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🔗
-<br>
-<b>REST APIs</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🤖
-<br>
-<b>MACHINE LEARNING</b>
-</td>
-
-<td>→</td>
-
-<td align="center">
-🚀
-<br>
-<b>PRACTICAL PROJECTS</b>
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<i>Learning by building. Building by experimenting.</i>
-
-</div>
+Experiences and learning that helped me develop **communication, customer handling, problem-solving, adaptability, teamwork, and professional skills**.
 
 ---
 
-<h2>▸ GITHUB ANALYTICS</h2>
+## 🏦 Practical Experience
 
-<div align="center">
+**Banking Agency — Customer & Loan Support**
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananya055&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+Gained practical exposure to system-based work, customer interaction, loan-related procedures, understanding customer requirements, and explaining relevant information to customers.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya055&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ananya055&theme=tokyonight&hide_border=true"/>
-
-</div>
+This experience strengthened my **communication, customer handling, adaptability, problem-solving, and professional interaction skills**.
 
 ---
 
-<h2>▸ CONTRIBUTION ACTIVITY</h2>
+## 🧠 My Learning Journey
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya055&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-<h2>▸ CONTRIBUTION SNAKE</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ananya055/ananya055/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<h2>▸ LET'S CONNECT</h2>
-
-<div align="center">
-
-### Let's build something meaningful with technology. 🚀
-
-<br>
-
-<a href="https://www.linkedin.com/in/ananya-3048ba354">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://skill-showcase-ananya.lovable.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ananya055">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:ananyaananya9128@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:7C3AED,75:312E81,100:0B1020&height=120&section=footer"/>
-
-</div>
+```text
+        💡 CURIOUS
+            │
+            ▼
+       📚 LEARNING
+            │
+            ▼
+       💻 PRACTICING
+            │
+            ▼
+        🚀 BUILDING
+            │
+            ▼
+        🔧 IMPROVING
+            │
+            ▼
+        🌱 GROWING
+            │
+            └───────────↻
